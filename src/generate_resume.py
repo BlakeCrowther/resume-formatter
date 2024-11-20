@@ -112,11 +112,6 @@ async def main():
         print(f"Error: Resume not found at {resume_tailor.resume_path}")
         return
 
-    # Generate docx structure
-    generate_docx_structure = input("Generate docx structure? (y/n): ")
-    if generate_docx_structure == "y":
-        resume_tailor.extract_structure()
-
     # Get job description
     print("Paste job description and press Enter twice when done:")
     job_description_lines = []

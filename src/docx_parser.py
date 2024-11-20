@@ -244,23 +244,18 @@ class DocxXMLParser:
 
 
 def main():
-    import sys
-
-    if len(sys.argv) < 2:
-        print("Usage: python docx-xml-parser.py <docx_path>")
-        sys.exit(1)
-
-    docx_path = sys.argv[1]
-    output_dir = sys.argv[2]
-
-    parser = DocxXMLParser(docx_path)
+    # Get the docx path
+    docx_path = input("Enter the name of your resume docx (without extension): ")
+    output_dir = input(
+        "Enter the path to the output directory (leave blank for default '/inputs'): "
+    )
+    root_dir = os.path.dirname(os.path.dirname(__file__))
+    inputs_dir = os.path.join(root_dir, "inputs")
+    output_dir = output_dir or inputs_dir
+    # Initialize the parser
+    parser = DocxXMLParser(os.path.join(inputs_dir, f"{docx_path}.docx"))
     structure = parser.extract_document_structure(output_dir)
-
-    # Print some insights
-    # print(f"Total Paragraphs: {len(structure['paragraphs'])}")
-    # print(f"Total Text Boxes: {len(structure['text_boxes'])}")
-    print(f"Total Tables: {len(structure['tables'])}")
-    # print(f"Total Images: {len(structure['images'])}")
+    print(f"Successfully extracted document structure to {output_dir}")
 
 
 if __name__ == "__main__":
