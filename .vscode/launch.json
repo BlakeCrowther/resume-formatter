@@ -1,0 +1,40 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: Test Resume Generator",
+            "request": "launch",
+            "type": "debugpy",
+            "program": "${workspaceFolder}/src/generate_resume.py",
+            "console": "integratedTerminal",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "name": "Python: Test Docx XML Parser",
+            "request": "launch",
+            "type": "debugpy",
+            "program": "${workspaceFolder}/src/docx_parser.py",
+            "console": "integratedTerminal",
+            "args": [
+                "${workspaceFolder}/inputs/Blake-Crowther-Resume.docx",
+                "${workspaceFolder}/inputs"
+            ],
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "name": "Python: Test Docx Modifier",
+            "request": "launch",
+            "type": "debugpy",
+            "program": "${workspaceFolder}/src/docx_modifier.py",
+            "console": "integratedTerminal",
+            "args": [
+                "${workspaceFolder}/inputs/Blake-Crowther-Resume.docx",
+                "${workspaceFolder}/outputs/tailored_resumes/test_tailored_schema.json",
+                "${workspaceFolder}/outputs/tailored_resumes"
+            ],
+        }
+    ]
+}

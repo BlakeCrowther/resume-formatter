@@ -1,0 +1,109 @@
+{
+  "experiences": [
+    {
+      "title": "Graduate Data Scientist/Analyst Intern",
+      "company": "Viasat",
+      "bullet_points": [
+        {
+          "text": "Prepare, aggregate, and transform extensive usage and satellite datasets using advanced techniques from Postgres and Python data analysis libraries to represent an accurate network demand profile."
+        },
+        {
+          "text": "Develop algorithms to optimize satellite capacity allocation by efficiently analyzing a complex search space to converge on the most optimal solutions."
+        },
+        {
+          "text": "Reduced model training time by 40% by conducting Bayesian hyperparameter tuning with Amazon SageMaker and employing parallel processing strategies with MLOps best practices."
+        },
+        {
+          "text": "Conduct comparative visual analysis between pre- and post-optimization network states, illustrating improvement in capacity allocation and beam utilization."
+        }
+      ]
+    },
+    {
+      "title": "Software Engineer",
+      "company": "DIRECTV",
+      "bullet_points": [
+        {
+          "text": "Served as an engineering owner, translating product requirements into comprehensive technical designs and actionable tasks, providing a solid foundation for the development process."
+        },
+        {
+          "text": "Achieved on-time project delivery with 15% reduced costs by collaborating with cross-functional teams to provide accurate estimates and facilitate efficient planning for project features, showcasing strong communication skills."
+        },
+        {
+          "text": "As a system integration engineer, developed and enhanced an internal stream validation tool used to improve the efficiency and reliability of our production streams, and integrate new capabilities."
+        },
+        {
+          "text": "Monitored initiative progress during the integration and post-implementation phases by diligently monitoring KPIs and system functionality using Elasticsearch, Grafana, and Splunk, identifying opportunities for continuous improvement."
+        }
+      ]
+    },
+    {
+      "title": "Lead Full-Stack Software Engineer",
+      "company": "HeadsUp Lab at Loyola Marymount University",
+      "bullet_points": [
+        {
+          "text": "Led the development of CampusGandr, a React Native app currently deployed on iOS/Android, in collaboration with the psychology department’s HeadsUp Lab, funded by a NIH R01 grant."
+        },
+        {
+          "text": "Translated client mocks into responsive mobile screens using React Native + Typescript, and built an admin dashboard with React for monitoring and moderating operations."
+        }
+      ]
+    },
+    {
+      "title": "Software Engineering Intern",
+      "company": "Ticketmaster",
+      "bullet_points": [
+        {
+          "text": "Delivered interactive and engaging user interfaces for consumer-facing applications in React, while leveraging Java for back-end services."
+        }
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Business Knowledge Graph: WIP (Private)",
+      "bullet_points": [
+        {
+          "text": "Developing an advanced knowledge graph for the USDA, leveraging ETL processes and Neo4j to combine datasets with geospatial, demographic, socio-economic, and business data, enabling the department to explore economic and development opportunities."
+        },
+        {
+          "text": "Incorporating NLP techniques and LLMs to map natural language queries to enrichment features."
+        }
+      ]
+    },
+    {
+      "title": "Scalable Music Recommender",
+      "bullet_points": [
+        {
+          "text": "Developed a scalable music recommender system using the Yahoo! Music dataset with PySpark and the ALS algorithm for personalized recommendations."
+        },
+        {
+          "text": "Optimized model accuracy with evaluation metrics (MAE, RMSE, precision, recall) and maintained a clean, scalable codebase for distributed execution."
+        }
+      ]
+    },
+    {
+      "title": "Mental Health and Emotion in Music",
+      "bullet_points": [
+        {
+          "text": "This project leverages libraries such as NumPy, Pandas, and Matplotlib to investigate how individuals' self-reported music preferences correlate with their mental health indicators."
+        }
+      ]
+    },
+    {
+      "title": "Music Genre Classifier",
+      "bullet_points": [
+        {
+          "text": "Utilizing Librosa, a music information retrieval library, this project extracts relevant audio features from songs to perform machine learning to train a genre classification model with PyTorch."
+        }
+      ]
+    },
+    {
+      "title": "Jumble",
+      "bullet_points": [
+        {
+          "text": "Jumble is a web application I developed to help musicians find the perfect track to mix with any song using the Spotify Web API, React, Next.js, GCP services, and hosted on Vercel."
+        }
+      ]
+    }
+  ]
+}

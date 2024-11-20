@@ -1,0 +1,7 @@
+README.md
+setup.py
+resume_formatter.egg-info/PKG-INFO
+resume_formatter.egg-info/SOURCES.txt
+resume_formatter.egg-info/dependency_links.txt
+resume_formatter.egg-info/requires.txt
+resume_formatter.egg-info/top_level.txt

@@ -1,0 +1,442 @@
+{
+  "tables": [
+    {
+      "rows": [
+        [
+          "",
+          "github.com/blakecrowther"
+        ],
+        [
+          "",
+          "linkedin.com/in/blakecrowther"
+        ],
+        [
+          "",
+          "blakecrowther.github.io/my-portfolio"
+        ]
+      ],
+      "total_rows": 3,
+      "total_columns": 2
+    },
+    {
+      "rows": [
+        [
+          "ViasatJun 2024 – Sep 2024Graduate Data Scientist/Analyst Intern"
+        ],
+        [
+          "Prepare, aggregate, and transform extensive usage and satellite datasets using advanced techniques from Postgres and Python data analysis libraries to represent an accurate network demand profile. "
+        ],
+        [
+          "Develop algorithms to optimize satellite capacity allocation by efficiently analyzing a complex search space to converge on the most optimal solutions. "
+        ],
+        [
+          "Reduced model training time by 40% by conducting Bayesian hyperparameter tuning with Amazon SageMaker and employing parallel processing strategies with MLOps best practices. "
+        ],
+        [
+          "Conduct comparative visual analysis between pre- and post-optimization network states, illustrating improvement in capacity allocation and beam utilization. "
+        ]
+      ],
+      "total_rows": 5,
+      "total_columns": 1
+    },
+    {
+      "rows": [
+        [
+          "DIRECTVMar 2022 – Jul 2023Software Engineer"
+        ],
+        [
+          "Served as an engineering owner, translating product requirements into comprehensive technical designs and actionable tasks, providing a solid foundation for the development process. "
+        ],
+        [
+          "Achieved on-time project delivery with 15% reduced costs by collaborating with cross-functional teams to provide accurate estimates and facilitate efficient planning for project features, showcasing strong communication skills. "
+        ],
+        [
+          "As a system integration engineer, developed and enhanced an internal stream validation tool used to improve the efficiency and reliability of our production streams, and integrate new capabilities. "
+        ],
+        [
+          "Monitored initiative progress during the integration and post-implementation phases by diligently monitoring KPIs and system functionality using Elasticsearch, Grafana, and Splunk, identifying opportunities for continuous improvement. "
+        ]
+      ],
+      "total_rows": 5,
+      "total_columns": 1
+    },
+    {
+      "rows": [
+        [
+          "HeadsUp Lab at Loyola Marymount UniversityAug 2019 – Aug 2021Lead Full-Stack Software Engineer"
+        ],
+        [
+          "Led the development of CampusGandr, a React Native app currently deployed on iOS/Android, in collaboration with the psychology department’s HeadsUp Lab, funded by a NIH R01 grant."
+        ],
+        [
+          "Translated client mocks into responsive mobile screens using React Native + Typescript, and built an admin dashboard with React for monitoring and moderating operations."
+        ]
+      ],
+      "total_rows": 3,
+      "total_columns": 1
+    },
+    {
+      "rows": [
+        [
+          "TicketmasterJun 2019 – Aug 2019Software Engineering Intern"
+        ],
+        [
+          "Delivered interactive and engaging user interfaces for consumer-facing applications in React, while leveraging Java for back-end services."
+        ]
+      ],
+      "total_rows": 2,
+      "total_columns": 1
+    },
+    {
+      "rows": [
+        [
+          "Business Knowledge Graph: WIP (Private)"
+        ],
+        [
+          "Developing an advanced knowledge graph for the USDA, leveraging ETL processes and Neo4j to combine datasets with geospatial, demographic, socio-economic, and business data, enabling the department to explore economic and development opportunities. "
+        ],
+        [
+          "Incorporating NLP techniques and LLMs to map natural language queries to enrichment features. "
+        ]
+      ],
+      "total_rows": 3,
+      "total_columns": 1
+    },
+    {
+      "rows": [
+        [
+          "Scalable Music Recommender: github.com/BlakeCrowther..."
+        ],
+        [
+          "Developed a scalable music recommender system using the Yahoo! Music dataset with PySpark and the ALS algorithm for personalized recommendations."
+        ],
+        [
+          "Optimized model accuracy with evaluation metrics (MAE, RMSE, precision, recall) and maintained a clean, scalable codebase for distributed execution."
+        ]
+      ],
+      "total_rows": 3,
+      "total_columns": 1
+    },
+    {
+      "rows": [
+        [
+          "Mental Health and Emotion in Music: github.com/BlakeCrowther..."
+        ],
+        [
+          "This project leverages libraries such as NumPy, Pandas, and Matplotlib to investigate how individuals' self-reported music preferences correlate with their mental health indicators."
+        ]
+      ],
+      "total_rows": 2,
+      "total_columns": 1
+    },
+    {
+      "rows": [
+        [
+          "Music Genre Classifier: github.com/BlakeCrowther/music-genre-classification"
+        ],
+        [
+          "Utilizing Librosa, a music information retrieval library, this project extracts relevant audio features from songs to perform machine learning to train a genre classification model with PyTorch."
+        ]
+      ],
+      "total_rows": 2,
+      "total_columns": 1
+    },
+    {
+      "rows": [
+        [
+          "Jumble: jumble.mx"
+        ],
+        [
+          "Jumble is a web application I developed to help musicians find the perfect track to mix with any song using the Spotify Web API, React, Next.js, GCP services, and hosted on Vercel"
+        ]
+      ],
+      "total_rows": 2,
+      "total_columns": 1
+    },
+    {
+      "rows": [
+        [
+          "ViasatJun 2024 – Sep 2024Graduate Data Scientist/Analyst Intern"
+        ],
+        [
+          "Prepare, aggregate, and transform extensive usage and satellite datasets using advanced techniques from Postgres and Python data analysis libraries to represent an accurate network demand profile. "
+        ],
+        [
+          "Develop algorithms to optimize satellite capacity allocation by efficiently analyzing a complex search space to converge on the most optimal solutions. "
+        ],
+        [
+          "Reduced model training time by 40% by conducting Bayesian hyperparameter tuning with Amazon SageMaker and employing parallel processing strategies with MLOps best practices. "
+        ],
+        [
+          "Conduct comparative visual analysis between pre- and post-optimization network states, illustrating improvement in capacity allocation and beam utilization. "
+        ]
+      ],
+      "total_rows": 5,
+      "total_columns": 1
+    },
+    {
+      "rows": [
+        [
+          "DIRECTVMar 2022 – Jul 2023Software Engineer"
+        ],
+        [
+          "Served as an engineering owner, translating product requirements into comprehensive technical designs and actionable tasks, providing a solid foundation for the development process. "
+        ],
+        [
+          "Achieved on-time project delivery with 15% reduced costs by collaborating with cross-functional teams to provide accurate estimates and facilitate efficient planning for project features, showcasing strong communication skills. "
+        ],
+        [
+          "As a system integration engineer, developed and enhanced an internal stream validation tool used to improve the efficiency and reliability of our production streams, and integrate new capabilities. "
+        ],
+        [
+          "Monitored initiative progress during the integration and post-implementation phases by diligently monitoring KPIs and system functionality using Elasticsearch, Grafana, and Splunk, identifying opportunities for continuous improvement. "
+        ]
+      ],
+      "total_rows": 5,
+      "total_columns": 1
+    },
+    {
+      "rows": [
+        [
+          "HeadsUp Lab at Loyola Marymount UniversityAug 2019 – Aug 2021Lead Full-Stack Software Engineer"
+        ],
+        [
+          "Led the development of CampusGandr, a React Native app currently deployed on iOS/Android, in collaboration with the psychology department’s HeadsUp Lab, funded by a NIH R01 grant."
+        ],
+        [
+          "Translated client mocks into responsive mobile screens using React Native + Typescript, and built an admin dashboard with React for monitoring and moderating operations."
+        ]
+      ],
+      "total_rows": 3,
+      "total_columns": 1
+    },
+    {
+      "rows": [
+        [
+          "TicketmasterJun 2019 – Aug 2019Software Engineering Intern"
+        ],
+        [
+          "Delivered interactive and engaging user interfaces for consumer-facing applications in React, while leveraging Java for back-end services."
+        ]
+      ],
+      "total_rows": 2,
+      "total_columns": 1
+    },
+    {
+      "rows": [
+        [
+          "Business Knowledge Graph: WIP (Private)"
+        ],
+        [
+          "Developing an advanced knowledge graph for the USDA, leveraging ETL processes and Neo4j to combine datasets with geospatial, demographic, socio-economic, and business data, enabling the department to explore economic and development opportunities. "
+        ],
+        [
+          "Incorporating NLP techniques and LLMs to map natural language queries to enrichment features. "
+        ]
+      ],
+      "total_rows": 3,
+      "total_columns": 1
+    },
+    {
+      "rows": [
+        [
+          "Scalable Music Recommender: github.com/BlakeCrowther..."
+        ],
+        [
+          "Developed a scalable music recommender system using the Yahoo! Music dataset with PySpark and the ALS algorithm for personalized recommendations."
+        ],
+        [
+          "Optimized model accuracy with evaluation metrics (MAE, RMSE, precision, recall) and maintained a clean, scalable codebase for distributed execution."
+        ]
+      ],
+      "total_rows": 3,
+      "total_columns": 1
+    },
+    {
+      "rows": [
+        [
+          "Mental Health and Emotion in Music: github.com/BlakeCrowther..."
+        ],
+        [
+          "This project leverages libraries such as NumPy, Pandas, and Matplotlib to investigate how individuals' self-reported music preferences correlate with their mental health indicators."
+        ]
+      ],
+      "total_rows": 2,
+      "total_columns": 1
+    },
+    {
+      "rows": [
+        [
+          "Music Genre Classifier: github.com/BlakeCrowther/music-genre-classification"
+        ],
+        [
+          "Utilizing Librosa, a music information retrieval library, this project extracts relevant audio features from songs to perform machine learning to train a genre classification model with PyTorch."
+        ]
+      ],
+      "total_rows": 2,
+      "total_columns": 1
+    },
+    {
+      "rows": [
+        [
+          "Jumble: jumble.mx"
+        ],
+        [
+          "Jumble is a web application I developed to help musicians find the perfect track to mix with any song using the Spotify Web API, React, Next.js, GCP services, and hosted on Vercel"
+        ]
+      ],
+      "total_rows": 2,
+      "total_columns": 1
+    },
+    {
+      "rows": [
+        [
+          "",
+          "AWS",
+          "",
+          "Java"
+        ],
+        [
+          "",
+          "Bash & Shell Scripting",
+          "",
+          "JavaScript & TypeScript"
+        ],
+        [
+          "",
+          "C++",
+          "",
+          "Neo4j & ETL"
+        ],
+        [
+          "",
+          "Docker & Kubernetes",
+          "",
+          "Postgres & SQL"
+        ],
+        [
+          "",
+          "GCP",
+          "",
+          "Python & Spark"
+        ],
+        [
+          "",
+          "Git",
+          "",
+          "R"
+        ],
+        [
+          "",
+          "Golang",
+          "",
+          "React & React Native"
+        ]
+      ],
+      "total_rows": 7,
+      "total_columns": 4
+    },
+    {
+      "rows": [
+        [
+          "",
+          "AWS",
+          "",
+          "Java"
+        ],
+        [
+          "",
+          "Bash & Shell Scripting",
+          "",
+          "JavaScript & TypeScript"
+        ],
+        [
+          "",
+          "C++",
+          "",
+          "Neo4j & ETL"
+        ],
+        [
+          "",
+          "Docker & Kubernetes",
+          "",
+          "Postgres & SQL"
+        ],
+        [
+          "",
+          "GCP",
+          "",
+          "Python & Spark"
+        ],
+        [
+          "",
+          "Git",
+          "",
+          "R"
+        ],
+        [
+          "",
+          "Golang",
+          "",
+          "React & React Native"
+        ]
+      ],
+      "total_rows": 7,
+      "total_columns": 4
+    }
+  ],
+  "styles": {
+    "Normal": {
+      "name": "Normal",
+      "type": "paragraph"
+    },
+    "DefaultParagraphFont": {
+      "name": "Default Paragraph Font",
+      "type": "character"
+    },
+    "TableNormal": {
+      "name": "Normal Table",
+      "type": "table"
+    },
+    "NoList": {
+      "name": "No List",
+      "type": "numbering"
+    },
+    "ListParagraph": {
+      "name": "List Paragraph",
+      "type": "paragraph"
+    },
+    "ListBullet": {
+      "name": "List Bullet",
+      "type": "paragraph"
+    },
+    "Hyperlink": {
+      "name": "Hyperlink",
+      "type": "character"
+    },
+    "FollowedHyperlink": {
+      "name": "FollowedHyperlink",
+      "type": "character"
+    },
+    "UnresolvedMention": {
+      "name": "Unresolved Mention",
+      "type": "character"
+    },
+    "Style1": {
+      "name": "Style1",
+      "type": "paragraph"
+    },
+    "Style2": {
+      "name": "Style2",
+      "type": "paragraph"
+    },
+    "Style2Char": {
+      "name": "Style2 Char",
+      "type": "character"
+    },
+    "TableGrid": {
+      "name": "Table Grid",
+      "type": "table"
+    }
+  }
+}
